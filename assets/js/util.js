@@ -1,3 +1,6 @@
+runs:
+  using: 'node24'
+  main: 'main.js'
 (function($) {
 
 	/**
